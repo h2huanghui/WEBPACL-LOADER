@@ -1,2 +1,3 @@
-let title = require('./title.js')
-console.log(title)
+// let title = require('./title.js')
+// console.log(title)
+console.log('index')

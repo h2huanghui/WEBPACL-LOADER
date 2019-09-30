@@ -91,28 +91,9 @@
   !*** ./src/index.js ***!
   \**********************/
 /*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
+/***/ (function(module, exports) {
 
-"use strict";
-
-
-var title = __webpack_require__(/*! ./title.js */ "./src/title.js");
-
-console.log(title);
-
-/***/ }),
-
-/***/ "./src/title.js":
-/*!**********************!*\
-  !*** ./src/title.js ***!
-  \**********************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-"use strict";
-
-
-module.exports = "title";
+loaderpitch2//1
 
 /***/ })
 

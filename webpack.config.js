@@ -18,7 +18,8 @@ module.exports = {
         rules: [
             {
                 test: /\.js$/,
-                use:["babel-loader"]
+                // use:["babel-loader"]
+                use:["loader1","loader2","loader3"]
             } 
         ]  
     },
