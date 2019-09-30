@@ -9,7 +9,7 @@ module.exports = {
     },
     resolveLoader: {
         //别名
-        aliasn: {
+        alias: {
             "babel-loader":path.resolve(__dirname,'loaders/babel-loader.js')
         },
         modules:[path.resolve(__dirname,'loaders'),"node_modules"]
